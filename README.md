@@ -19,7 +19,7 @@ $$
 \begin{bmatrix}
 \text{Data Mining:} \\
 \text{Proposal of } \\
-\text{Initial Portfolio}
+\text{Initial Portfolio} \\
 \end{bmatrix}
 \rightarrow
 \begin{bmatrix}\text{Visualization + Simulation: Amendment of Proposed Portfolio}\end{bmatrix}
