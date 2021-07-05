@@ -9,6 +9,20 @@ This github repo introduces a sample flagship product of Yins Capital.
   <img width="460" height="300" src="https://github.com/yiqiao-yin/Q-Branch/blob/main/figs/main.gif">
 </p>
 
+## Product Introduction
+
+This software product walks the reader through a basic pipeline, one of the major pipelines developed by [Yins Capital](https://www.YinsCapital.com/). A basic illustration can be seen in the following diagram.
+
+$$
+\begin{bmatrix}\text{Client Requirements}\end{bmatrix}
+\rightarrow
+\begin{bmatrix}\text{Data Mining: Proposal of Initial Portfolio}\end{bmatrix}
+\rightarrow
+\begin{bmatrix}\text{Visualization + Simulation: Amendment of Proposed Portfolio}\end{bmatrix}
+\rightarrow
+\begin{bmatrix}\text{Profit Maximization + Potential Exit Strategy}\end{bmatrix}
+$$
+
 ## Usage
 
 Sample usage: clone repo by running the following in a *Git* command window.
