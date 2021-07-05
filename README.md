@@ -27,6 +27,17 @@ $$
 
 ## Usage
 
+*Pre-requisite*: This repo has the following dependencies. Please make sure you have these libraries installed.
+
+```
+# Library
+# install.packages(c("package1", "package2", ...))
+library(quantmod)
+library(dygraphs)
+library(DT)
+library(plotly)
+```
+
 Sample usage: clone repo by running the following in a *Git* command window.
 
 ```
