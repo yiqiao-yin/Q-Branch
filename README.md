@@ -16,10 +16,12 @@ This software product walks the reader through a basic pipeline, one of the majo
 $$
 \begin{bmatrix}\text{Client Requirements}\end{bmatrix}
 \rightarrow
-\begin{bmatrix}\text{Data Mining: Proposal of Initial Portfolio}\end{bmatrix}
+\begin{bmatrix}
+\text{Data Mining:} \\
+\text{Proposal of } \\
+\text{Initial Portfolio}
+\end{bmatrix}
 \rightarrow
-$$
-$$
 \begin{bmatrix}\text{Visualization + Simulation: Amendment of Proposed Portfolio}\end{bmatrix}
 \rightarrow
 \begin{bmatrix}\text{Profit Maximization + Potential Exit Strategy}\end{bmatrix}
