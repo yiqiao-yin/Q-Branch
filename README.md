@@ -18,6 +18,8 @@ $$
 \rightarrow
 \begin{bmatrix}\text{Data Mining: Proposal of Initial Portfolio}\end{bmatrix}
 \rightarrow
+$$
+$$
 \begin{bmatrix}\text{Visualization + Simulation: Amendment of Proposed Portfolio}\end{bmatrix}
 \rightarrow
 \begin{bmatrix}\text{Profit Maximization + Potential Exit Strategy}\end{bmatrix}
