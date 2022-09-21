@@ -15,7 +15,7 @@ This github repo introduces a sample flagship product of Yins Capital. A live UI
 This software product walks the reader through a basic pipeline, one of the major pipelines developed by [Yins Capital](https://www.YinsCapital.com/). A basic illustration can be seen in the following diagram.
 
 <p align="center">
-<img src="https://github.com/yiqiao-yin/Q-Branch/blob/main/figs/product-introduction.png" width="560" height="350"/>
+<img src="https://github.com/yiqiao-yin/Q-Branch/blob/main/figs/product-introduction.png" width="700" height="350"/>
 
 </p>
 
